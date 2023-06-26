@@ -1,6 +1,6 @@
 # Bitcoin User Manual Booklet
 
-Cześć! Cieszymy się, że trafiłeś w to miejsce. Jest to repozytorium książki "Bitcoin User Manual Booklet", przygotowanej przez Cryptosteel. Publikacja została stworzona z myślą o osobach początkującym, ale wierzymy, że również doświadczeni użytkownicy Bitcoina znajdą w niej coś interesującego.
+Jesteś w repozytorium "Bitcoin User Manual Booklet". Ta przygotowana przez Cryptosteel publikacja stanowi składową zestawów z serii [MotherLode](https://cryptosteel.com/product/motherlode-crypto-starter-kit/) obejmujących trzy temperatury portfeli kryptowalut. Publikacja została stworzona z myślą o osobach początkujących, ale wierzymy, że również doświadczeni użytkownicy Bitcoina znajdą w niej coś interesującego.
 
 ![Banner Name](https://cryptosteel.com/wp-content/uploads/2019/10/cryptosteel-capsule-opening-wide.jpg)
 
