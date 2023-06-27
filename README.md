@@ -2,7 +2,7 @@
 
 Jesteś w repozytorium "Bitcoin User Manual Booklet". Ta przygotowana przez Cryptosteel publikacja stanowi składową zestawów z serii [MotherLode](https://cryptosteel.com/product/motherlode-crypto-starter-kit/) obejmujących trzy temperatury portfeli kryptowalut. Publikacja została stworzona z myślą o osobach początkujących, ale wierzymy, że również doświadczeni użytkownicy Bitcoina znajdą w niej coś interesującego.
 
-![Banner Name](https://cryptosteel.com/wp-content/uploads/2019/10/cryptosteel-capsule-opening-wide.jpg)
+![The Easy Way to Get Started](./the-easy-way-to-get-started.png)
 
 ## Opis publikacji
 
