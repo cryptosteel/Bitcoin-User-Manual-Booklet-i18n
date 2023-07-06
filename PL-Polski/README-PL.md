@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](./EN-English/README-EN.md) [![cz](https://img.shields.io/badge/lang-cz-white.svg)](./CZ-Czech/README-CZ.md) [![pl](https://img.shields.io/badge/lang-pl-red.svg)](./PL-Polski/README-PL.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](/EN-English/README-EN.md) [![cz](https://img.shields.io/badge/lang-cz-white.svg)](/CZ-Czech/README-CZ.md) [![pl](https://img.shields.io/badge/lang-pl-red.svg)](/PL-Polski/README-PL.md)
 
 # Bitcoin User Manual Booklet
 
