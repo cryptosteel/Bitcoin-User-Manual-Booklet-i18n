@@ -199,4 +199,4 @@ Joko and btc21.de
 ```
 EST. 2013
 ```
-## W ASABI W ALLET
+## WASABI W ALLET

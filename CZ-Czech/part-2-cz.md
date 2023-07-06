@@ -115,6 +115,3 @@ nebo ztráty hardwarové
 peněženky.
 
 ## PRIVÁTNÍ KLÍČ
-
-
-

@@ -1,4 +1,3 @@
-
 # Vítej v uživatelské příručce k Bitcoinu!
 
 Díky této příručce jsi nyní jen krůček od toho, aby ses naučil, jak se stát nezávis-

@@ -1,0 +1,4 @@
+# Ignore DS_Store, json
+.DS_Store
+
+*.json

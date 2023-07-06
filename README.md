@@ -42,9 +42,9 @@ Na początek udostępniamy książkę w trzech językach, ale z czasem planujemy
 
 |Publication Language|Kliknij okładkę, aby przejść do odpowiedniego folderu|
 |---|---|
-|English|[![PL](./English-EN/en.png)](./English-EN/)|
-|Czech|[![PL](./Czech-CZ/cz.png)](./Czech-CZ/)|
-|Polski|[![PL](./Polski-PL/pl.png)](./Polski-PL/)|
+|English|[![PL](en.png)](./English-EN/)|
+|Czech|[![PL](cz.png)](./Czech-CZ/)|
+|Polski|[![PL](pl.png)](./Polski-PL/)|
 
 
 ## Licencja
