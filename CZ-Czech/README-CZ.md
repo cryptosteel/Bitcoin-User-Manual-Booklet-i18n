@@ -1,67 +1,67 @@
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](./EN-English/README-EN.md) [![cz](https://img.shields.io/badge/lang-cz-white.svg)](./CZ-Czech/README-CZ.md) [![pl](https://img.shields.io/badge/lang-pl-red.svg)](./PL-Polski/README-PL.md)
+[![en](https://img.shields.io/badge/lang-EN-blue.svg)](/EN-English/README-EN.md) [![cz](https://img.shields.io/badge/lang-CZ-white.svg)](/CZ-Czech/README-CZ.md) [![pl](https://img.shields.io/badge/lang-PL-red.svg)](/PL-Polski/README-PL.md)
 
 # Bitcoin User Manual Booklet
 
-Jesteś w repozytorium "Bitcoin User Manual Booklet". Ta przygotowana przez Cryptosteel publikacja stanowi składową zestawów z serii [MotherLode](https://cryptosteel.com/product/motherlode-crypto-starter-kit/) obejmujących trzy temperatury portfeli kryptowalut. Publikacja została stworzona z myślą o osobach początkujących, ale wierzymy, że także doświadczeni użytkownicy Bitcoina znajdą w niej interesujące treści. Mogą one być wykorzystane do celów szkoleniowych dla osób, które dopiero rozpoczynają swoją przygodę z Bitcoinem.
+Welcome to the Bitcoin User Manual knowledge repository. This publication by Cryptosteel is part of the **[MotherLode](https://cryptosteel.com/product/motherlode-crypto-starter-kit/)** product range. The manual is for beginners, with valuable information for veteran Bitcoiners as well, among others as a resource for educating hodlers at the start of their adventure in the world of crypto.
 
-![The Easy Way to Get Started](cover-the-easy-way-to-get-started.png)
-
-
-## Opis publikacji
-
-Książka "Bitcoin User Manual Booklet" tłumaczy, w sposób pragmatyczny, jak krok po kroku:
-
-- skonfigurować portfel sprzętowy (Cold Storage), 
-- wykonać trwały backup frazy odzyskiwania (Deep Frozen Backup),
-- korzystać z szybkich płatności Lightning Network (Hot Spending Account). 
-
-Ponieważ zależy nam na podnoszeniu poziomu bezpieczeństwa i edukowaniu użytkowników, postanowiliśmy udostępnić ją na licencji [Creative Commons Attribution 3.0 Unported (CC BY 3.0)](./LICENSE.md).
-
-**Oznacza to, że każdy może ją bezpłatnie pobrać, modyfikować, korzystać z niej i dzielić się nią, pod warunkiem, że poda źródło.**
-
-Nasza publikacja została skonstruowana w taki sposób, aby można było ją łatwo przetłumaczyć i dostosować do lokalnych warunków, w których będzie używana.
-
-Zachęcamy do modyfikacji elementów takich jak:
-
-- lokalne giełdy i inne możliwości wymiany kryptowalut,
-- portfele sprzętowe popularne w danym regionie,
-- popularne lokalnie metody tworzenia metalowych kopii zapasowych,
-- aplikacje Lightning, które cieszą się popularnością w danym obszarze.
+![The Easy Way to Get Started](/Assets/cover-the-easy-way-to-get-started.png)
 
 
-## Co znajduje się w repozytorium?
+## A few words about the booklet
 
-Na repozytorium składają się różne wersje językowe publikacji. Każda z nich zawiera:
+The Bitcoin User Manual is a pragmatic, step-by-step guide on:
 
-- pełną wersję książki w formacie PDF - idealnej do pobrania i czytania,
-- książkę podzieloną na rozdziały w oddzielnych, łatwych do edycji plikach - pozwala to społeczności łatwo zgłaszać sugestie i ewentualne poprawki,
-- ilustracje - w formie zamkniętej i otwartej do edycji.
+- hardware wallet configuration (Cold Storage), 
+- creating a permanent recovery seed phrase backup (Deep Frozen Backup),
+- Lightning fast transactions (A Hot Spending Account). 
+
+Cryptosteel’s mission is to provide security and education for Bitcoin users. In line with this philosophy, we have decided to make the booklet available on the CC platform [Creative Commons Attribution 3.0 Unported (CC BY 3.0)](/LICENSE.md).
+
+**This means anyone can freely download, modify, and share, as long as there is a reference to the source material.**
+
+The guide is designed for easy translation and customization for local needs.
+
+Feel free to mod elements like:
+
+- local crypto trading platforms, as well as other forms of exchanging currencies,
+- hardware wallets popular in a specific region,
+- popular metal backup methods,
+- local Lightning fast payment apps.
 
 
-## Dostępne wersje językowe
+## What’s in the repository?
 
-Na początek udostępniamy książkę w trzech językach, ale z czasem planujemy dodać więcej wersji językowych. Nie ukrywamy, że w pracach nad innymi wersjami liczymy na pomoc społeczności!
+It includes there language versions, each also containing:
 
-|Publication Language|Kliknij okładkę, aby przejść do odpowiedniego folderu|
+- the full booklet in PDF format - perfect for downloading and reading,
+- the contents in separate files, allowing community editing,
+- illustrations - in open, editable, and encapsulated formats.
+
+
+## Available language version
+
+The first three versions are English, Polish, and Czech, with further versions in the works. We’re hoping for your support!
+
+|Language|Click the cover to enter a chapter.|
 |---|---|
-|English|[![EN](en.png)](./EN-English/)|
-|Czech|[![CZ](cz.png)](./CZ-Czech/)|
-|Polski|[![PL](pl.png)](./PL-Polski/)|
+|English|[![EN](./Assets/en.png)](./EN-English/)|
+|Czech|[![CZ](./Assets/cz.png)](./CZ-Czech/)|
+|Polski|[![PL](./Assets/pl.png)](./PL-Polski/)|
 
 
-## Licencja
+## Contact
 
-Książka “Bitcoin User Manual Booklet” i związane z nią repozytorium (dostępne pod adresem: https://github.com/cryptosteel/Bitcoin-User-Manual-Booklet/) zostały udostępniane na licencji Creative Commons Attribution 3.0 Unported (CC BY 3.0). 
-
-
-## Kontakt z nami
-
-Jeśli masz jakieś pytania lub chcesz zgłosić swoje sugestie, skontaktuj się z nami pod adresem motherlode.booklet@cryptosteel.com.
+The “Bitcoin User Manual Booklet” and related resources are available at https://github.com/cryptosteel/Bitcoin-User-Manual-Booklet/ based on the license: Creative Commons Attribution 3.0 Unported (CC BY 3.0). 
 
 
-## Wkład społeczności
+## Contact
 
-Zachęcamy wszystkich do zgłaszania swoich sugestii i pomocy w tłumaczeniu naszej książki na inne języki.
+If you have any questions or suggestions about this project, please contact us at motherlode.booklet@cryptosteel.com.
+
+
+## Community contribution
+
+Your suggestions and support in adapting this publication to other languages will be much appreciated both by the Community.
 
 
 **Cryptosteel**
