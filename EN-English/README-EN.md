@@ -49,7 +49,7 @@ The first three versions are English, Polish, and Czech, with further versions i
 |Polski|[![PL](/Assets/pl.png)](/PL-Polski/)|
 
 
-## Contact
+## License
 
 The “Bitcoin User Manual Booklet” and related resources are available at https://github.com/cryptosteel/Bitcoin-User-Manual-Booklet/ based on the license: Creative Commons Attribution 3.0 Unported (CC BY 3.0). 
 

@@ -54,7 +54,7 @@ The first three versions are English, Polish, and Czech, with further versions i
 The “Bitcoin User Manual Booklet” and related resources are available at https://github.com/cryptosteel/Bitcoin-User-Manual-Booklet/ based on the license: Creative Commons Attribution 3.0 Unported (CC BY 3.0). 
 
 
-## Contact
+## License
 
 If you have any questions or suggestions about this project, please contact us at motherlode.booklet@cryptosteel.com.
 
