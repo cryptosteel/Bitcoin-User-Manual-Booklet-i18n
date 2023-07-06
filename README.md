@@ -47,12 +47,6 @@ Na początek udostępniamy książkę w trzech językach, ale z czasem planujemy
 |Polski|[![PL](./Polski-PL/pl.png)](./Polski-PL/)|
 
 
-
-
-
-
-
-
 ## Licencja
 
 Książka “Bitcoin User Manual Booklet” i związane z nią repozytorium (dostępne pod adresem: https://github.com/cryptosteel/Bitcoin-User-Manual-Booklet/) zostały udostępniane na licencji Creative Commons Attribution 3.0 Unported (CC BY 3.0). 
