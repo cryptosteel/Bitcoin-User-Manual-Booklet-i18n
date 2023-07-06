@@ -42,8 +42,8 @@ Na początek udostępniamy książkę w trzech językach, ale z czasem planujemy
 
 |Publication Language|Kliknij okładkę, aby przejść do odpowiedniego folderu|
 |---|---|
-|English|   |
-|Czech|   |
+|English|[![PL](./English-EN/en.png)](./English-EN/)|
+|Czech|[![PL](./Czech-CZ/cz.png)](./Czech-CZ/)|
 |Polski|[![PL](./Polski-PL/pl.png)](./Polski-PL/)|
 
 
