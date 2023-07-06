@@ -44,9 +44,9 @@ Na początek udostępniamy książkę w trzech językach, ale z czasem planujemy
 
 |Publication Language|Kliknij okładkę, aby przejść do odpowiedniego folderu|
 |---|---|
-|English|[![EN](../Assets/en.png)](./EN-English/)|
-|Czech|[![CZ](../Assets/cz.png)](./CZ-Czech/)|
-|Polski|[![PL](../Assets/pl.png)](./PL-Polski/)|
+|English|[![EN](/Assets/en.png)](/EN-English/)|
+|Czech|[![CZ](/Assets/cz.png)](/CZ-Czech/)|
+|Polski|[![PL](/Assets/pl.png)](/PL-Polski/)|
 
 
 ## Licencja
