@@ -44,9 +44,9 @@ The first three versions are English, Polish, and Czech, with further versions i
 
 |Language|Click the cover to enter a chapter.|
 |---|---|
-|English|[![EN](./Assets/en.png)](./EN-English/)|
-|Czech|[![CZ](./Assets/cz.png)](./CZ-Czech/)|
-|Polski|[![PL](./Assets/pl.png)](./PL-Polski/)|
+|English|[![EN](/Assets/en.png)](/EN-English/)|
+|Czech|[![CZ](/Assets/cz.png)](/CZ-Czech/)|
+|Polski|[![PL](/Assets/pl.png)](/PL-Polski/)|
 
 
 ## Contact
