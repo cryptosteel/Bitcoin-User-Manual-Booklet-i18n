@@ -34,7 +34,7 @@ Na repozytorium składają się różne wersje językowe publikacji. Każda z n
 - pełną wersję książki w formacie PDF - idealnej do pobrania i czytania,
 - książkę podzieloną na rozdziały w oddzielnych, łatwych do edycji plikach - pozwala to społeczności łatwo zgłaszać sugestie i ewentualne poprawki,
 - ilustracje - w formie zamkniętej i otwartej do edycji.
-   
+
 
 ## Dostępne wersje językowe
 
