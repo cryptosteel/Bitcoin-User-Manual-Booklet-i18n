@@ -15,7 +15,7 @@ Książka "Bitcoin User Manual Booklet" tłumaczy, w sposób pragmatyczny, jak k
 - wykonać trwały backup frazy odzyskiwania (Deep Frozen Backup),
 - korzystać z szybkich płatności Lightning Network (Hot Spending Account). 
 
-Ponieważ zależy nam na podnoszeniu poziomu bezpieczeństwa i edukowaniu użytkowników, postanowiliśmy udostępnić ją na licencji [Creative Commons Attribution 3.0 Unported (CC BY 3.0)](./LICENSE.md).
+Ponieważ zależy nam na podnoszeniu poziomu bezpieczeństwa i edukowaniu użytkowników, postanowiliśmy udostępnić ją na licencji [Creative Commons Attribution 3.0 Unported (CC BY 3.0)](/LICENSE.md).
 
 **Oznacza to, że każdy może ją bezpłatnie pobrać, modyfikować, korzystać z niej i dzielić się nią, pod warunkiem, że poda źródło.**
 

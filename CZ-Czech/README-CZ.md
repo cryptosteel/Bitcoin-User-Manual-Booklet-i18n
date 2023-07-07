@@ -15,7 +15,7 @@ The Bitcoin User Manual is a pragmatic, step-by-step guide on:
 - creating a permanent recovery seed phrase backup (Deep Frozen Backup),
 - Lightning fast transactions (A Hot Spending Account). 
 
-Cryptosteel’s mission is to provide security and education for Bitcoin users. In line with this philosophy, we have decided to make the booklet available on the CC platform [Creative Commons Attribution 3.0 Unported (CC BY 3.0)](/LICENSE.md).
+Cryptosteel’s mission is to provide security and education for Bitcoin users. In line with this philosophy, we have decided to make the booklet available on the CC platform [Creative Commons Attribution 3.0 Uported (CC BY 3.0)](/LICENSE.md).
 
 **This means anyone can freely download, modify, and share, as long as there is a reference to the source material.**
 
