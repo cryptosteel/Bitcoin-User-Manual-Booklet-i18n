@@ -1,67 +1,67 @@
 [![en](https://img.shields.io/badge/lang-EN-blue.svg)](/EN-English/README-EN.md) [![cz](https://img.shields.io/badge/lang-CZ-white.svg)](/CZ-Czech/README-CZ.md) [![pl](https://img.shields.io/badge/lang-PL-red.svg)](/PL-Polski/README-PL.md)
 
-# Bitcoin User Manual Booklet
+# Uživatelská příručka k Bitcoinu
 
-Welcome to the Bitcoin User Manual knowledge repository. This publication by Cryptosteel is part of the **[MotherLode](https://cryptosteel.com/product/motherlode-crypto-starter-kit/)** product range. The manual is for beginners, with valuable information for veteran Bitcoiners as well, among others as a resource for educating hodlers at the start of their adventure in the world of crypto.
+Vítejte v repozitáři Uživatelské příručky k Bitcoinu. Tato publikace od společnosti Cryptosteel je součástí produktové řady **[MotherLode](https://cryptosteel.com/product/motherlode-crypto-starter-kit/)**. Příručka je určena začátečníkům, ale věříme, že její obsah zaujme i zkušené bitcoinery. Mimo jiné může sloužit i jako zdroj informací začínajícím hodlerům na počátku jejich dobrodružné cesty světem Bitcoinu.
 
 ![The Easy Way to Get Started](/Assets/cover-the-easy-way-to-get-started.png)
 
 
-## A few words about the booklet
+## Pár slov k příručce
 
-The Bitcoin User Manual is a pragmatic, step-by-step guide on:
+Uživatelská příručka k Bitcoinu je účelným průvodcem a jednoduše krok za krokem vysvětluje:
 
-- hardware wallet configuration (Cold Storage), 
-- creating a permanent recovery seed phrase backup (Deep Frozen Backup),
-- Lightning fast transactions (A Hot Spending Account). 
+- konfiguraci hardwarové peněženky (Cold Storage),
+- vytvoření trvalé zálohy seedu pro obnovu peněženky (Deep Frozen Backup),
+- rychlé Lightningové transakce (A Hot Spending Account).
 
-Cryptosteel’s mission is to provide security and education for Bitcoin users. In line with this philosophy, we have decided to make the booklet available on the CC platform [Creative Commons Attribution 3.0 Uported (CC BY 3.0)](/LICENSE.md).
+Posláním společnosti Cryptosteel je poskytovat zabezpečení a vzdělávání uživatelům Bitcoinu. V souladu s naší filozofií jsme se rozhodli zpřístupnit tuto příručku na platformě CC [Creative Commons Attribution 3.0 Uported (CC BY 3.0)](/LICENSE.md).
 
-**This means anyone can freely download, modify, and share, as long as there is a reference to the source material.**
+**To znamená, že si ji může kdokoli zdarma stáhnout, upravovat a sdílet, pokud ovšem uvede odkaz na zdrojový materiál.**
 
-The guide is designed for easy translation and customization for local needs.
+Příručka je navržena tak, aby ji bylo možné snadno přeložit a přizpůsobit místním podmínkám.
 
-Feel free to mod elements like:
+Neváhejte upravovat prvky, jakými jsou:
 
-- local crypto trading platforms, as well as other forms of exchanging currencies,
-- hardware wallets popular in a specific region,
-- popular metal backup methods,
-- local Lightning fast payment apps.
-
-
-## What’s in the repository?
-
-It includes there language versions, each also containing:
-
-- the full booklet in PDF format - perfect for downloading and reading,
-- the contents in separate files, allowing community editing,
-- illustrations - in open, editable, and encapsulated formats.
+- místní burzy a další možnosti směny kryptoměn,
+- hardwarové peněženky oblíbené ve vaší komunitě,
+- oblíbené metody kovových záloh,
+- Lightningové aplikace populární ve vašem regionu.
 
 
-## Available language version
+## Co naleznete v repozitáři?
 
-The first three versions are English, Polish, and Czech, with further versions in the works. We’re hoping for your support!
+Repozitář zahrnuje tři jazykové verze publikace, z nichž každá obsahuje také:
 
-|Language|Click the cover to enter a chapter.|
+- plnou verzi příručky ve formátu PDF - ideální ke stažení a čtení,
+- knihu rozdělenou do kapitol v samostatných, snadno editovatelných souborech, což umožňuje komunitě snadno předkládat návrhy a případné opravy,
+- ilustrace v uzavřeném a snadno editovatelném formátu.
+
+
+## Dostupné jazykové verze
+
+První tři dostupné verze příručky jsou v angličtině, polštině a češtině. Na dalších verzích se aktuálně pracuje. Mockrát děkujeme komunitě za její pomoc a podporu!
+
+|Jazyk|Klikněte na obal, abyste vstoupili do kapitoly.|
 |---|---|
-|English|[![EN](/Assets/en.png)](/EN-English/)|
-|Czech|[![CZ](/Assets/cz.png)](/CZ-Czech/)|
-|Polski|[![PL](/Assets/pl.png)](/PL-Polski/)|
+|Angličtina|[![EN](/Assets/en.png)](/EN-English/)|
+|Čeština|[![CZ](/Assets/cz.png)](/CZ-Czech/)|
+|Polština|[![PL](/Assets/pl.png)](/PL-Polski/)|
 
 
-## License
+## Licence
 
-The “Bitcoin User Manual Booklet” and related resources are available at https://github.com/cryptosteel/Bitcoin-User-Manual-Booklet/ based on the license: Creative Commons Attribution 3.0 Unported (CC BY 3.0). 
-
-
-## Contact
-
-If you have any questions or suggestions about this project, please contact us at motherlode.booklet@cryptosteel.com.
+Uživatelská příručka k Bitcoinu a zdroje s ní související jsou k dispozici na adrese https://github.com/cryptosteel/Bitcoin-User-Manual-Booklet/ na základě licence: Creative Commons Attribution 3.0 Unported (CC BY 3.0). 
 
 
-## Community contribution
+## Kontaktujte nás
 
-Your suggestions and support in adapting this publication to other languages will be much appreciated both by the Community.
+Pokud máte jakékoli dotazy nebo návrhy týkající se tohoto projektu, kontaktujte nás prosím na adrese motherlode.booklet@cryptosteel.com.
+
+
+## Příspěvek komunity
+
+Vaše návrhy a podpora při úpravě této publikace a jejím překladu do jiných jazyků budou ze strany společnosti velmi vítány.
 
 
 **Cryptosteel**
