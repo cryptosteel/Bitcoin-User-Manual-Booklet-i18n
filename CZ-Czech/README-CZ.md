@@ -4,7 +4,7 @@
 
 Vítejte v repozitáři Uživatelské příručky k Bitcoinu. Tato publikace od společnosti Cryptosteel je součástí produktové řady **[MotherLode](https://cryptosteel.com/product/motherlode-crypto-starter-kit/)**. Příručka je určena začátečníkům, ale věříme, že její obsah zaujme i zkušené bitcoinery. Mimo jiné může sloužit i jako zdroj informací začínajícím hodlerům na počátku jejich dobrodružné cesty světem Bitcoinu.
 
-![The Easy Way to Get Started](/Assets/cover-the-easy-way-to-get-started.png)
+![The Easy Way to Get Started](/Assets/cover-cz.png)
 
 
 ## Pár slov k příručce
