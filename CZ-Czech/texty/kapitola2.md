@@ -62,7 +62,7 @@ Doporučujeme přečíst si návod k použití dodaný výrobcem, protože se te
 
 Hardwarové peněženky jsou navrženy tak, aby k privátnímu klíči měl přístup pouze jejich majitel, což zvyšuje jejich úroveň zabezpečení.
 
-Obnovovací fráze (seed) je řada obvykle 12 nebo 24 slov,ve kterých je zakódován Tvůj privátní klíč k peněžence. Nezapomínej, že tato slova umožňují přístup k Tvým finančním prostředkům!
+Obnovovací fráze (seed) je řada obvykle 12 nebo 24 slov, ve kterých je zakódován Tvůj privátní klíč k peněžence. Nezapomínej, že tato slova umožňují přístup k Tvým finančním prostředkům!
 
 Seed lze přenášet mezi hardwarovými peněženkami různých výrobců. **V důsledku toho je seed mnohem důležitější než samotné zařízení, které jej uchovává.**
 

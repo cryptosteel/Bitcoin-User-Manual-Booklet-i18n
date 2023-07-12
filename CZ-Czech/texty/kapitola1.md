@@ -52,4 +52,4 @@ rozhodni se, kterou hardwarovou peněženku si pořídíš,
 - **jeden měsíc:**
 pořiď si kovovou destičku/kapsli, aby sis vytvořil trvalou zálohu výchozí fráze (seedu) pro obnovení přístupu k peněžence. V případě ztráty hardwarové peněženky pak můžeš svůj majetek lehce získat zpět.
 
-Bitcoin se, stejně jako každá tradiční měna, dělí na dílčí jednotky. Každý bitcoin představuje neuvěřitelných sto milionů satoshi (100 000 000 SATS). Díky tomu je možné koupit bitcoin i za zlomek koruny.
+Bitcoin se dělí, stejně jako každá tradiční měna, na dílčí jednotky. Každý bitcoin představuje neuvěřitelných sto milionů satoshi (100 000 000 SATS). Díky tomu je možné koupit bitcoin i za zlomek koruny.
